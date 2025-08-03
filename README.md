@@ -1,10 +1,10 @@
 # AI-Travel-Planner-with-LLMOps
 
 Project Aim
-Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
+-- Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
 
 Project Aim
-Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
+-- Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
 
 Key Features
 Real-time Weather Info
