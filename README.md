@@ -26,3 +26,5 @@ Build an AI-powered Trip Planner Agent that helps users plan trips to any city w
 ## Summary Generation
 - Creates a well-structured summary that users can download or share.
 
+## Work Flow proejct
+![WhatsApp Image 2025-08-03 at 13 00 35_66895291](https://github.com/user-attachments/assets/ea08298a-4b47-4366-a494-5f252e202b9a)
