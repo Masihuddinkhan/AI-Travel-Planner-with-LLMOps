@@ -1,28 +1,30 @@
 # AI-Travel-Planner-with-LLMOps
 
-print(shutil.which("uv"))```
+Project Aim
+Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
 
-```pip install uv```
+Project Aim
+Build an AI-powered Trip Planner Agent that helps users plan trips to any city worldwide using real-time data — including weather, hotel cost, activities, itinerary, and total budget — with the help of LLMs and automation tools
 
-```uv init AI_Travel_Planner```
+Key Features
+Real-time Weather Info
+Provides current weather details for the destination to help users pack and plan better.
 
-```uv pip list```
+Attractions & Activities
+Suggests must-visit places, local experiences, and events based on user interests.
 
-```uv python list```
+Hotel Cost Estimation
+Fetches average or real-time hotel pricing data to fit user budget preferences.
 
-```uv python install ypy-3.10.16-windows-x86_64-none```
+Currency Conversion
+Converts budget and expenses into the local currency with real-time exchange rates.
 
-```uv python list```
+Itinerary Planning
+Automatically generates a day-wise plan of activities, attractions, and breaks.
 
-```uv venv env --python cpython-3.10.18-windows-x86_64-none```
+Total Expense Calculation
+Combines hotel, food, travel, and activities to estimate total cost.
 
-```uv add pandas```
-
-#if you have conda then first deactivate that
-```conda deactivate```
-
-```uv venv env --python cpython-3.10.18-windows-x86_64-none```
-
-## use this command from your virtual env
-```C:\Users\sunny\AI_Trip_Planner\env\Scripts\activate.bat```
+Summary Generation
+Creates a well-structured summary that users can download or share.
 
